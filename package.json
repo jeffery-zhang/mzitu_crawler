@@ -1,0 +1,15 @@
+{
+  "name": "mzitu",
+  "version": "1.0.0",
+  "description": "Crawler download pictures from mzitu to local",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "jeffery-zhang",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
